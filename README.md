@@ -27,8 +27,7 @@ A C compiler with a React-based user interface, utilizing Flex and Bison for lex
 
 ## About
 
-This C compiler with React UI provides an interactive experience for exploring each phase of C compilation, from tokenization to assembly code generation. Bison, an LALR (Look-Ahead LR) parser, processes syntax rules, while Flex handles lexical analysis. This compiler runs on Linux systems (e.g., Ubuntu), making it a comprehensive tool for learning or teaching C programming.
-
+This C compiler with React UI provides an interactive experience for exploring each phase of C compilation, from tokenization to assembly code generation. Bison, an LALR (Look-Ahead LR) parser, processes syntax rules, while Flex handles lexical analysis. 
 ### Built With
 
 - [![React](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev) **React.js** – User Interface
@@ -36,6 +35,8 @@ This C compiler with React UI provides an interactive experience for exploring e
 - [![Express](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev) **Express.js** – REST API
 - [![Linux](https://skillicons.dev/icons?i=linux&perline=3)](https://skillicons.dev) **Linux** – Development Environment
 - [![Bash](https://skillicons.dev/icons?i=bash&perline=3)](https://skillicons.dev) **Bash/Shell** – Scripting and Automation
+  
+This compiler runs on Linux systems (e.g., Ubuntu), making it a comprehensive tool for learning or teaching C programming.
 
 Additional tools and libraries:
 - **Lex & Flex** – Tokenizes the source code
