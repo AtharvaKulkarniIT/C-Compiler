@@ -86,7 +86,7 @@ Follow these steps to set up the project.
    ```sh
    git clone https://github.com/AtharvaKulkarniIT/C-Compiler.git
    ```
-
+   Split the terminal.
 2. **Install Frontend Dependencies**
    ```sh
    cd Frontend
@@ -99,10 +99,11 @@ Follow these steps to set up the project.
    npm install --force
    ```
 
-4. **Install Flex and Bison**
+4. **Install Nodemon , Flex and Bison**
    ```sh
    sudo apt-get update
    sudo apt-get install flex bison
+   sudo npm install -g nodemon
    ```
 
 5. **Run the Frontend**
