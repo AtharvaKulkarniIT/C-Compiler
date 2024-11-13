@@ -1,12 +1,32 @@
-CMakeLists.txt.user
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
-CMakeUserPresets.json
+# Operating System Files
+/.DS_Store
+/Thumbs.db
+
+# Build Artifacts
+/build/
+/dist/
+*.o
+*.so
+*.a
+
+# Log Files
+*.log
+
+# IDE Specific Files
+/.idea/
+/.vscode/
+
+# Node.js and npm
+/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Flex and Bison
+*.output
+*.tab.c
+*.tab.h
+
+# React and Webpack
+/public/
+/.cache/
