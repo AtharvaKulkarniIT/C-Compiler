@@ -1,8 +1,6 @@
-<h3 align="center">C Compiler</h3>
+## C Compiler
 
-<div align="center">
 A C compiler with a React-based user interface, utilizing Flex and Bison for lexical analysis and parsing. This compiler enables users to write, compile and execute C code, with a clear visual breakdown of each compilation stage. From tokenization tables and compilation status to intermediate code and final output, this tool is ideal for both learners and developers seeking a detailed look at the compilation process.
-</div>
 
 <details>
   <summary>Contents</summary>
@@ -52,7 +50,7 @@ Additional tools and libraries:
 | Syntax Analysis     | Analyzes token structure and enforces grammar rules           | Bison (LALR Parser)               |
 | Semantic Analysis   | Ensures variables and functions are used correctly            |  C Validation Logic               |
 | Intermediate Code   | Generates an intermediate representation of the code          | Node.js                           |
-| Optimization        | Enhances code efficiency through optimization techniques      | Custom Node.js Scripts            |
+| Optimization        | Enhances code efficiency through optimization techniques      |   Node.js Scripts                 |
 | Code Generation     | Translates intermediate code into assembly/machine code       | Node.js Child Processes, Linux    |
 | Error Handling      | Captures and displays syntax and semantic errors              | Bison, Node.js                    |
 
