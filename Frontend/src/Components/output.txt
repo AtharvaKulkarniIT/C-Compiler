@@ -1,0 +1,12 @@
+	Lexeme			Token			Value
+	#include 	<stdio.h>			Preprocessor Statement			0
+	int			Keyword				1
+	main		Identifier			2
+	(			Punctuator			3
+	)			Punctuator			4
+	{			Punctuator			5
+	;			Punctuator			6
+	return		Keyword				7
+	0			Constant			8
+	;			Punctuator			9
+	}			Punctuator			10

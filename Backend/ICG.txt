@@ -1,0 +1,12 @@
+Running: 1
+
+
+===================================  [1;33mRunning TestCase 1[0m  ===================================
+func begin main
+refparam "Enter a number: "
+refparam result
+call printf, 1
+refparam "%d"
+[31m6 syntax error &
+[31mStatus: Parsing Failed - Invalid
+[0m
